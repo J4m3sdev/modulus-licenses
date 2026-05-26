@@ -1,0 +1,13 @@
+{
+  "payload": {
+    "v": 1,
+    "license_id": "MD1ASD1MWKR",
+    "key": "MD1ASD1MWKR",
+    "email": "TEST",
+    "tier": "dev",
+    "issued_at": "2026-05-26T21:38:49.529Z",
+    "expires_at": null
+  },
+  "canonical": "{\"email\":\"TEST\",\"expires_at\":null,\"issued_at\":\"2026-05-26T21:38:49.529Z\",\"key\":\"MD1ASD1MWKR\",\"license_id\":\"MD1ASD1MWKR\",\"tier\":\"dev\",\"v\":1}",
+  "signature": "6IHQHBLFRNH+U7ZDHi1Ex9UShcxGDUtEqT/n78J1eBtkbbeDcMqcyZ662kXaVIgadcjd8WBKbEVt4b/VskJnDg=="
+}
