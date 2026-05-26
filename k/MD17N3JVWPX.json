@@ -1,0 +1,13 @@
+{
+  "payload": {
+    "v": 1,
+    "license_id": "MD17N3JVWPX",
+    "key": "MD17N3JVWPX",
+    "email": "jamesdenhamiv@gmail.com",
+    "tier": "trial",
+    "issued_at": "2026-05-26T18:22:35.891Z",
+    "expires_at": "2026-07-26T18:22:35.891Z"
+  },
+  "canonical": "{\"email\":\"jamesdenhamiv@gmail.com\",\"expires_at\":\"2026-07-26T18:22:35.891Z\",\"issued_at\":\"2026-05-26T18:22:35.891Z\",\"key\":\"MD17N3JVWPX\",\"license_id\":\"MD17N3JVWPX\",\"tier\":\"trial\",\"v\":1}",
+  "signature": "KZn5w5jpamzMgin/lWHELMDtMoiYpAR1u1P7Zvw8lfMU8c0P+RFJ578nV7CMHHmAN9nNfGcDQH2eV4TCviviDQ=="
+}
