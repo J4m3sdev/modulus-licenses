@@ -1,0 +1,13 @@
+{
+  "payload": {
+    "v": 1,
+    "license_id": "MD1T7SZWTRC",
+    "key": "MD1T7SZWTRC",
+    "email": "Rick Denham",
+    "tier": "trial",
+    "issued_at": "2026-05-27T23:53:43.935Z",
+    "expires_at": "2026-05-28T23:53:43.936Z"
+  },
+  "canonical": "{\"email\":\"Rick Denham\",\"expires_at\":\"2026-05-28T23:53:43.936Z\",\"issued_at\":\"2026-05-27T23:53:43.935Z\",\"key\":\"MD1T7SZWTRC\",\"license_id\":\"MD1T7SZWTRC\",\"tier\":\"trial\",\"v\":1}",
+  "signature": "hFIVIQNN2B1FnXBDUA9ZiWeNf+OHOV5VXgbX0yO329qXzc/R6SqZBNB1hJxIdWIp0jVae7nJwU2MRJku/GsEAw=="
+}
