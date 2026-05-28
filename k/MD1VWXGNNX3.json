@@ -1,0 +1,13 @@
+{
+  "payload": {
+    "v": 1,
+    "license_id": "MD1VWXGNNX3",
+    "key": "MD1VWXGNNX3",
+    "email": "vini",
+    "tier": "trial",
+    "issued_at": "2026-05-28T19:06:28.100Z",
+    "expires_at": "2026-05-29T19:06:28.101Z"
+  },
+  "canonical": "{\"email\":\"vini\",\"expires_at\":\"2026-05-29T19:06:28.101Z\",\"issued_at\":\"2026-05-28T19:06:28.100Z\",\"key\":\"MD1VWXGNNX3\",\"license_id\":\"MD1VWXGNNX3\",\"tier\":\"trial\",\"v\":1}",
+  "signature": "5gpz0+QcFxxRh6BSQhHiXbS+FT77NCnbLYlwftG9F+yG/6IAScnXxJ2QEHioWRwr57s5tgIPYnQEqmx6fv0qCw=="
+}
